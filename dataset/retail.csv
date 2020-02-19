@@ -165,8 +165,8 @@
 163,C,2019-01,2,19,Sports and travel,76.4,2,160.44,6.5
 164,B,2019-02,2,15,Food and beverages,39.9,10,418.95,5.9
 165,B,2019-02,0,14,Health and beauty,42.57,8,357.588,5.6
-166,C,2019-01,2,13,Home and lifestyle,95.58,10,1003.59,4.8
-167,A,2019-02,4,16,Fashion accessories,98.98,10,1039.29,8.7
+166,C,2019-01,2,13,Home and lifestyle,95.58,10,,4.8
+167,A,2019-02,4,16,Fashion accessories,98.98,10,,8.7
 168,A,2019-01,5,16,Food and beverages,51.28,6,323.064,6.5
 169,A,2019-02,4,15,Sports and travel,69.52,7,510.972,8.5
 170,A,2019-01,3,11,Health and beauty,70.01,5,367.5525,5.5
@@ -349,14 +349,14 @@
 347,C,2019-01,6,10,Home and lifestyle,89.25,8,749.7,4.7
 348,A,2019-03,3,17,Electronic accessories,26.02,7,191.247,5.1
 349,B,2019-02,2,11,Health and beauty,13.5,10,141.75,4.8
-350,C,2019-02,4,14,Fashion accessories,99.3,10,1042.65,6.6
+350,C,2019-02,4,14,Fashion accessories,99.3,10,,6.6
 351,A,2019-01,5,18,Electronic accessories,51.69,7,379.9215,5.5
 352,B,2019-03,3,19,Fashion accessories,54.73,7,402.2655,8.5
 353,B,2019-03,5,14,Home and lifestyle,27.0,9,255.15,4.8
 354,C,2019-03,0,15,Electronic accessories,30.24,1,31.752,8.4
 355,B,2019-01,0,12,Food and beverages,89.14,4,374.38800000000003,7.8
 356,C,2019-03,4,20,Fashion accessories,37.55,10,394.275,9.3
-357,C,2019-01,2,13,Sports and travel,95.44,10,1002.12,5.2
+357,C,2019-01,2,13,Sports and travel,95.44,10,,5.2
 358,B,2019-03,4,15,Electronic accessories,27.5,3,86.625,6.5
 359,B,2019-03,5,16,Sports and travel,74.97,1,78.7185,5.6
 360,A,2019-02,6,11,Food and beverages,80.96,8,680.064,7.4
@@ -421,7 +421,7 @@
 419,A,2019-02,0,10,Electronic accessories,25.22,7,185.36700000000002,8.2
 420,C,2019-03,3,13,Food and beverages,38.6,3,121.59,7.5
 421,C,2019-01,2,13,Electronic accessories,84.05,3,264.7575,9.8
-422,C,2019-02,4,13,Fashion accessories,97.21,10,1020.705,8.7
+422,C,2019-02,4,13,Fashion accessories,97.21,10,,8.7
 423,B,2019-03,1,19,Fashion accessories,25.42,8,213.528,6.7
 424,C,2019-03,5,15,Fashion accessories,16.28,1,17.094,5.0
 425,B,2019-01,2,13,Fashion accessories,40.61,9,383.7645,7.0
@@ -556,7 +556,7 @@
 554,A,2019-03,0,18,Electronic accessories,19.32,7,142.002,6.9
 555,B,2019-01,6,13,Home and lifestyle,37.48,3,118.06200000000001,7.7
 556,B,2019-02,0,19,Fashion accessories,72.04,2,151.284,9.5
-557,C,2019-01,2,20,Food and beverages,98.52,10,1034.46,4.5
+557,C,2019-01,2,20,Food and beverages,98.52,10,,4.5
 558,A,2019-01,2,15,Food and beverages,41.66,6,262.45799999999997,5.6
 559,A,2019-03,4,16,Home and lifestyle,72.42,3,228.123,8.2
 560,B,2019-03,3,12,Electronic accessories,21.58,9,203.93099999999998,7.3
@@ -698,7 +698,7 @@
 696,A,2019-01,1,20,Sports and travel,27.04,4,113.568,6.9
 697,B,2019-01,6,19,Home and lifestyle,62.19,4,261.198,4.3
 698,A,2019-02,1,19,Electronic accessories,69.58,9,657.5310000000001,7.8
-699,C,2019-01,5,16,Home and lifestyle,97.5,10,1023.75,8.0
+699,C,2019-01,5,16,Home and lifestyle,97.5,10,,8.0
 700,C,2019-02,3,12,Fashion accessories,60.41,8,507.444,9.6
 701,B,2019-03,2,19,Food and beverages,32.32,3,101.80799999999999,4.3
 702,B,2019-02,2,18,Fashion accessories,19.77,10,207.585,5.0
@@ -791,7 +791,7 @@
 789,A,2019-01,3,15,Sports and travel,58.91,7,432.9885,9.7
 790,A,2019-03,6,20,Fashion accessories,46.41,1,48.7305,4.0
 791,C,2019-02,4,20,Health and beauty,68.55,4,287.91,9.2
-792,B,2019-01,1,13,Home and lifestyle,97.37,10,1022.385,4.9
+792,B,2019-01,1,13,Home and lifestyle,97.37,10,,4.9
 793,A,2019-02,2,12,Electronic accessories,92.6,7,680.61,9.3
 794,A,2019-02,1,12,Electronic accessories,46.61,2,97.881,6.6
 795,B,2019-03,4,16,Fashion accessories,27.18,2,57.078,4.3
@@ -995,7 +995,7 @@
 993,B,2019-02,4,18,Fashion accessories,17.49,10,183.645,6.6
 994,C,2019-02,0,11,Electronic accessories,60.95,1,63.9975,5.9
 995,C,2019-01,1,13,Health and beauty,40.35,1,42.3675,6.2
-996,B,2019-03,5,17,Home and lifestyle,97.38,10,1022.49,4.4
+996,B,2019-03,5,17,Home and lifestyle,97.38,10,,4.4
 997,A,2019-02,5,13,Food and beverages,31.84,1,33.431999999999995,7.7
 998,A,2019-02,4,15,Home and lifestyle,65.82,1,69.111,4.1
 999,A,2019-02,0,13,Fashion accessories,88.34,7,649.299,6.6
